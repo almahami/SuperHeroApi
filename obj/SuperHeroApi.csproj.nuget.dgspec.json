@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project\\tutorial\\SuperHeroApi\\SuperHeroApi.csproj": {}
+    "D:\\project\\GraphQL\\SuperHeroApi\\SuperHeroApi.csproj": {}
   },
   "projects": {
-    "D:\\project\\tutorial\\SuperHeroApi\\SuperHeroApi.csproj": {
+    "D:\\project\\GraphQL\\SuperHeroApi\\SuperHeroApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\tutorial\\SuperHeroApi\\SuperHeroApi.csproj",
+        "projectUniqueName": "D:\\project\\GraphQL\\SuperHeroApi\\SuperHeroApi.csproj",
         "projectName": "SuperHeroApi",
-        "projectPath": "D:\\project\\tutorial\\SuperHeroApi\\SuperHeroApi.csproj",
+        "projectPath": "D:\\project\\GraphQL\\SuperHeroApi\\SuperHeroApi.csproj",
         "packagesPath": "C:\\Users\\mmahamid\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\tutorial\\SuperHeroApi\\obj\\",
+        "outputPath": "D:\\project\\GraphQL\\SuperHeroApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,6 +43,36 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "HotChocolate.AspNetCore": {
+              "target": "Package",
+              "version": "[12.15.0, )"
+            },
+            "HotChocolate.Data.EntityFramework": {
+              "target": "Package",
+              "version": "[12.15.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"

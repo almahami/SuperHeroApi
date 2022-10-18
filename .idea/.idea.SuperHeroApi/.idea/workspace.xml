@@ -6,59 +6,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f983a037-cf15-4789-bfdc-e024a3536f3c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Building RESTful Web APIs with ASP.NET Core 3.1/MovieAPI" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Building RESTful Web APIs with ASP.NET Core 3.1/MoviesAPI" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning Entity Framework Core/BookStoreApp/.idea/.idea.BookStoreApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning Entity Framework Core/BookStoreApp/.idea/.idea.BookStoreApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/ExistingDbProject.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/ExistingDbProject.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/bin/Debug/netcoreapp2.0/ExistingDbProject.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/bin/Debug/netcoreapp2.0/ExistingDbProject.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/bin/Debug/netcoreapp2.0/ExistingDbProject.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/bin/Debug/netcoreapp2.0/ExistingDbProject.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/bin/Debug/netcoreapp2.0/ExistingDbProject.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/bin/Debug/netcoreapp2.0/ExistingDbProject.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/bin/Debug/netcoreapp2.0/ExistingDbProject.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/bin/Debug/netcoreapp2.0/ExistingDbProject.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/bin/Debug/netcoreapp2.0/ExistingDbProject.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/bin/Debug/netcoreapp2.0/ExistingDbProject.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/obj/Debug/netcoreapp2.0/ExistingDbProject.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/obj/Debug/netcoreapp2.0/ExistingDbProject.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/obj/Debug/netcoreapp2.0/ExistingDbProject.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/obj/Debug/netcoreapp2.0/ExistingDbProject.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/obj/Debug/netcoreapp2.0/ExistingDbProject.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/obj/Debug/netcoreapp2.0/ExistingDbProject.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/obj/Debug/netcoreapp2.0/ExistingDbProject.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/obj/Debug/netcoreapp2.0/ExistingDbProject.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/obj/Debug/netcoreapp2.0/ExistingDbProject.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/obj/Debug/netcoreapp2.0/ExistingDbProject.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/obj/Debug/netcoreapp2.0/ExistingDbProject.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/obj/Debug/netcoreapp2.0/ExistingDbProject.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/obj/ExistingDbProject.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/obj/ExistingDbProject.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/obj/ExistingDbProject.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/obj/ExistingDbProject.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/obj/ExistingDbProject.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Learning Entity Framework Core/Code/Section 5/ExistingDbProject/ExistingDbProject/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestApp/TestApp.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../TestApp/TestApp.Api/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestApp/TestApp.Service/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../TestApp/TestApp.Service/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/.idea/.idea.ToDoApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/.idea/.idea.ToDoApi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/bin/Debug/net6.0/ToDoApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/bin/Debug/net6.0/ToDoApi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/bin/Debug/net6.0/ToDoApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/bin/Debug/net6.0/ToDoApi.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/Debug/net6.0/ToDoApi.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/Debug/net6.0/ToDoApi.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/Debug/net6.0/ToDoApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/Debug/net6.0/ToDoApi.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/Debug/net6.0/ToDoApi.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/Debug/net6.0/ToDoApi.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/Debug/net6.0/ToDoApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/Debug/net6.0/ToDoApi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/Debug/net6.0/ToDoApi.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/Debug/net6.0/ToDoApi.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/Debug/net6.0/ToDoApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/Debug/net6.0/ToDoApi.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/ToDoApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/ToDoApi.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApi/obj/staticwebassets.pack.sentinel" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApiTest/bin/Debug/net6.0/CoverletSourceRootsMapping" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApiTest/bin/Debug/net6.0/CoverletSourceRootsMapping" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApiTest/obj/Debug/net6.0/ToDoApiTest.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApiTest/obj/Debug/net6.0/ToDoApiTest.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApiTest/obj/Debug/net6.0/ToDoApiTest.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApiTest/obj/Debug/net6.0/ToDoApiTest.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApiTest/obj/Debug/net6.0/ToDoApiTest.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApiTest/obj/Debug/net6.0/ToDoApiTest.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApiTest/obj/ToDoApiTest.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApiTest/obj/ToDoApiTest.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApiTest/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApiTest/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApiTest/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApiTest/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApiTest/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApiTest/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApiTest/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../c#/ToDoApi/ToDoApiTest/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/dockerCookbook/docbook" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../docker/getting-started" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SuperHeroApi/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SuperHeroApi/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SuperHeroApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SuperHeroApi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/SuperHeroApi/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/SuperHeroApi/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/SuperHeroApi/v17/.futdcache.v1" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/SuperHeroApi/v17/.futdcache.v1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/SuperHeroApi/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/SuperHeroApi/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/Query.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Data/Query.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Superhero.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Superhero.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperHeroApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/SuperHeroApi.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/SuperHeroApi.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/SuperHeroApi.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/SuperHeroApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/SuperHeroApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/SuperHeroApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/SuperHeroApi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.GlobalUsings.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.GlobalUsings.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/SuperHeroApi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/ref/SuperHeroApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ref/SuperHeroApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/refint/SuperHeroApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/refint/SuperHeroApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/SuperHeroApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/SuperHeroApi.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/SuperHeroApi.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/SuperHeroApi.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/SuperHeroApi.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/obj/SuperHeroApi.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/obj/staticwebassets.pack.sentinel" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GHBsT6GEtgQzICSaUOdjCr70wy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -70,6 +60,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Functions" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -114,16 +105,41 @@
       <option name="presentableId" value="Default" />
       <updated>1666035840476</updated>
       <workItem from="1666035847295" duration="29000" />
+      <workItem from="1666036102414" duration="8296000" />
+      <workItem from="1666098569763" duration="767000" />
+      <workItem from="1666100096478" duration="930000" />
+      <workItem from="1666108122228" duration="4706000" />
     </task>
+    <task id="LOCAL-00001" summary="Add Query in Data and Add Services for GraphQL in Program.cs">
+      <created>1666041514457</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666041514457</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Add Query in Data and Add Services for GraphQL in Program.cs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Query in Data and Add Services for GraphQL in Program.cs" />
   </component>
 </project>
