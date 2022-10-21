@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "M5KqluT7SGoz0fRkUkJqnj7rTx8XFclx8gVbOzkivjXd24zypxzulwhNoFwT330aQizi2f7AF3IrO641kwTrzA==",
+  "dgSpecHash": "1tFpQLhKp7aoP4zmKf4acZxrJwn+wE3MfzMlCj8/4h6gmRVV++oyEFU5e3ivacDUGajKlxmnWgaysI8wH0xIng==",
   "success": true,
   "projectFilePath": "D:\\project\\GraphQL\\SuperHeroApi\\SuperHeroApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mmahamid\\.nuget\\packages\\graphql.server.ui.voyager\\6.1.1\\graphql.server.ui.voyager.6.1.1.nupkg.sha512",
     "C:\\Users\\mmahamid\\.nuget\\packages\\greendonut\\12.15.0\\greendonut.12.15.0.nupkg.sha512",
     "C:\\Users\\mmahamid\\.nuget\\packages\\hotchocolate\\12.15.0\\hotchocolate.12.15.0.nupkg.sha512",
     "C:\\Users\\mmahamid\\.nuget\\packages\\hotchocolate.abstractions\\12.15.0\\hotchocolate.abstractions.12.15.0.nupkg.sha512",

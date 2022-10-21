@@ -90,3 +90,5 @@ dotnet ef database update
 ## Path 
 
 https://localhost:7262/graphQL/ 
+
+https://localhost:7262/graphql-voyager

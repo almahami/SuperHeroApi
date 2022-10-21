@@ -109,3 +109,4 @@ D:\project\GraphQL\SuperHeroApi\bin\Debug\net6.0\HotChocolate.Utilities.Introspe
 D:\project\GraphQL\SuperHeroApi\bin\Debug\net6.0\HotChocolate.Validation.dll
 D:\project\GraphQL\SuperHeroApi\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
 D:\project\GraphQL\SuperHeroApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\project\GraphQL\SuperHeroApi\bin\Debug\net6.0\GraphQL.Server.Ui.Voyager.dll

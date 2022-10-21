@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "GraphQL.Server.Ui.Voyager/6.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/GraphQL.Server.Ui.Voyager.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/GraphQL.Server.Ui.Voyager.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "GreenDonut/12.15.0": {
         "type": "package",
         "dependencies": {
@@ -1113,6 +1125,25 @@
     }
   },
   "libraries": {
+    "GraphQL.Server.Ui.Voyager/6.1.1": {
+      "sha512": "QZVOzWT0pCYij1NmNjir8oMjTT7lni7dbodt2TlTGQdUfS2Y1QtyVlfWzED30NsYsZY/ptDOIeodfR2pg/Zrlw==",
+      "type": "package",
+      "path": "graphql.server.ui.voyager/6.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "graphql.server.ui.voyager.6.1.1.nupkg.sha512",
+        "graphql.server.ui.voyager.nuspec",
+        "lib/net5.0/GraphQL.Server.Ui.Voyager.dll",
+        "lib/net5.0/GraphQL.Server.Ui.Voyager.xml",
+        "lib/net6.0/GraphQL.Server.Ui.Voyager.dll",
+        "lib/net6.0/GraphQL.Server.Ui.Voyager.xml",
+        "lib/netcoreapp3.1/GraphQL.Server.Ui.Voyager.dll",
+        "lib/netcoreapp3.1/GraphQL.Server.Ui.Voyager.xml",
+        "logo.64x64.png"
+      ]
+    },
     "GreenDonut/12.15.0": {
       "sha512": "IPuqkRHF7a9OtUc2T5HbgGkO/XKexMLtVi5lhU8KDQgTppOWt7VJFNTW6ziwdYobUHR9D99++gZIF8xkvyDfmA==",
       "type": "package",
@@ -3310,6 +3341,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "GraphQL.Server.Ui.Voyager >= 6.1.1",
       "HotChocolate.AspNetCore >= 12.15.0",
       "HotChocolate.Data.EntityFramework >= 12.15.0",
       "Microsoft.EntityFrameworkCore >= 6.0.1",
@@ -3363,6 +3395,10 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
+          "GraphQL.Server.Ui.Voyager": {
+            "target": "Package",
+            "version": "[6.1.1, )"
+          },
           "HotChocolate.AspNetCore": {
             "target": "Package",
             "version": "[12.15.0, )"

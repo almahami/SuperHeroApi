@@ -1,3 +1,4 @@
+using GraphQL.Server.Ui.Voyager;
 using Microsoft.EntityFrameworkCore;
 using SuperHeroApi.Data;
 using SuperHeroApi.Interfaces;
@@ -39,5 +40,10 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.MapGraphQL("/graphql");
+
+app.UseGraphQLVoyager(new VoyagerOptions()
+{
+  GraphQLEndPoint = "/graphql"
+}, "/graphql-voyager");
 
 app.Run();

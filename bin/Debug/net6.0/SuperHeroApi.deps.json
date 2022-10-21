@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "SuperHeroApi/1.0.0": {
         "dependencies": {
+          "GraphQL.Server.Ui.Voyager": "6.1.1",
           "HotChocolate.AspNetCore": "12.15.0",
           "HotChocolate.Data.EntityFramework": "12.15.0",
           "Microsoft.EntityFrameworkCore": "6.0.1",
@@ -19,6 +20,14 @@
         },
         "runtime": {
           "SuperHeroApi.dll": {}
+        }
+      },
+      "GraphQL.Server.Ui.Voyager/6.1.1": {
+        "runtime": {
+          "lib/net6.0/GraphQL.Server.Ui.Voyager.dll": {
+            "assemblyVersion": "6.1.1.0",
+            "fileVersion": "6.1.1.0"
+          }
         }
       },
       "GreenDonut/12.15.0": {
@@ -800,6 +809,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "GraphQL.Server.Ui.Voyager/6.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QZVOzWT0pCYij1NmNjir8oMjTT7lni7dbodt2TlTGQdUfS2Y1QtyVlfWzED30NsYsZY/ptDOIeodfR2pg/Zrlw==",
+      "path": "graphql.server.ui.voyager/6.1.1",
+      "hashPath": "graphql.server.ui.voyager.6.1.1.nupkg.sha512"
     },
     "GreenDonut/12.15.0": {
       "type": "package",
